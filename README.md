@@ -10,6 +10,12 @@ I’m planning on developing some front-end projects to give my APIs more real-w
 - 💬 Ask me about **API development**, **architecture design**, and **clean code**.
 - 📫 How to reach me: [nicolevs94@gmail.com](mailto:nicolevs94@gmail.com)
 
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, Java, JavaScript, TypeScript, SQL
+- **Frameworks**: FastAPI, React, Django, Spring Boot
+- **Tools**: Docker, Git, CI/CD, AWS, PostgreSQL
+
 <!--
 **nicolendless/nicolendless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
