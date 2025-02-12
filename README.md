@@ -14,7 +14,7 @@ I’m planning on developing some front-end projects to give my APIs more real-w
 
 - **Languages**: Python, Java, JavaScript, TypeScript, SQL
 - **Frameworks**: FastAPI, React, Django, Spring Boot
-- **Tools**: Docker, Git, CI/CD, AWS, PostgreSQL
+- **Tools**: Docker, Git, CI/CD, AWS, K8, Terraform, PostgreSQL
 
 <!--
 **nicolendless/nicolendless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
