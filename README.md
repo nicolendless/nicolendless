@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m a passionate software developer with a focus on back-end projects, especially in API development. 
+I’m planning on developing some front-end projects to give my APIs more real-world application and enhance the user experience.
+
 <!--
 **nicolendless/nicolendless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
