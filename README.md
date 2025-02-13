@@ -5,7 +5,7 @@ I’m planning on developing some front-end projects to give my APIs more real-w
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on multiple projects including **TuneCast** and **Centimate API**.
+- 🔭 I’m currently working on a few projects including **TuneCast** and **Centimate API**.
 - 🌱 I’m learning **new programming languages**, **cloud computing**, and improving **CI/CD** processes.
 - 💬 Ask me about **API development**, **architecture design**, and **clean code**.
 - 📫 How to reach me: [nicolevs94@gmail.com](mailto:nicolevs94@gmail.com)
