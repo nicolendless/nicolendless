@@ -12,8 +12,8 @@ I’m planning on developing some front-end projects to give my APIs more real-w
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, Java, JavaScript, TypeScript, SQL
-- **Frameworks**: FastAPI, React, Django, Spring Boot
+- **Languages**: Python, Java, Ruby, JavaScript, TypeScript, SQL
+- **Frameworks**: FastAPI, React, Ruby on Rails, Django, Spring Boot
 - **Tools**: Docker, Git, CI/CD, AWS, K8, Terraform, PostgreSQL
 
 <!--
